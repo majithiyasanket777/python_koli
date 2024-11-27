@@ -1,0 +1,5 @@
+27-Nov-2024 15:34:19 - root - WARNING - you Not usinging  only capital words and special symbol as passwords - Process: 90163 - Line: 140
+27-Nov-2024 15:34:19 - root - ERROR - the error is variable not found - Process: 90163 - Line: 141
+27-Nov-2024 15:34:19 - root - CRITICAL - your data base not connect so your app not work propley - Process: 90163 - Line: 142
+27-Nov-2024 15:34:19 - root - ERROR - zerodivsion error you can not divide by zero and value are only use int as objects - Process: 90163 - Line: 143
+NoneType: None
