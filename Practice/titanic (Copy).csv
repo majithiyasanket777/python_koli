@@ -1,0 +1,5 @@
+PassengerId,Name,Age,Survived
+1,John Doe,22,2
+2,Jane Smith,28,0
+3,Robert Brown,35,1
+4,Emily White,19,0
